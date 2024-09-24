@@ -1,5 +1,16 @@
 h1{
     color: #142539c5;
     background-color: lightslategray;
-    padding: 10px;
+    padding: 10px 0px;
+}
+
+div.caixa{
+    border: 3px dotted rgba(226, 43, 89, 0.521);
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: black;
+    font-size: 16px;
+    border-left-width: 0;
 }
